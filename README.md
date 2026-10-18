@@ -12,4 +12,5 @@
 
 Este proyecto contiene una base de datos para un negocio de productos electronicos, ejemplos de metodos HTTP y un buscador de Pokemon utilizando PokeAPI.
 
-Estado del conflicto: version A
+Estado del conflicto: version B
+
