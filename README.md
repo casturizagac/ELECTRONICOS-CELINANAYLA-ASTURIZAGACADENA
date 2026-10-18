@@ -14,3 +14,6 @@ Este proyecto contiene una base de datos para un negocio de productos electronic
 
 Estado del conflicto: version B
 
+El conflicto ocurrió porque dos ramas modificaron la misma parte del README.
+Se revisaron los cambios y se eliminaron las marcas del conflicto.
+Finalmente se conservó una sola versión de la línea.
