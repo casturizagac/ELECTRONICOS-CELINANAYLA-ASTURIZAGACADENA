@@ -64,3 +64,8 @@ INSERT INTO detalle_pedido (pedido_id, producto_id, cantidad, precio_unitario) V
 (10, 5, 1, 250.00),
 (10, 12, 1, 80.00),
 (10, 7, 1, 450.00);
+
+INSERT INTO detalle_pedido
+(pedido_id, producto_id, cantidad, precio_unitario)
+VALUES
+(10, 8, 1, 300.00);
