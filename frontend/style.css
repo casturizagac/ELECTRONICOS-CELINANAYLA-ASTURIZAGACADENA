@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-color: darkslategrey;
+    padding: 15px;
+}
+
+button{
+    background-color: cornflowerblue;
+    font-size: 20px;
+}
+input{
+    font-size: 20px;
+}
